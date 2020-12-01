@@ -69,7 +69,7 @@ def commit():
     run("push")
 
 
-token = "NzQ5NDg0NjYxNzE3MjA0OTky.X0sp_A.uSISE2d8Lc0EqU0zUAtL2gqxvGs"
+token = "<insert bot token here>"
 client = commands.Bot(command_prefix = ".", help_command=None)
 data_list = ["PRN", "SRN", "Semester", "Section", "Hostelite", "Stream/Campus", "Stream", "Campus"]
 
